@@ -1,4 +1,4 @@
-DirtyKernel 3.0.8 Trebon
+DirtyKernel 3.0.x Trebon
 ===============
 
 
